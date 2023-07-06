@@ -15,4 +15,13 @@ aside {
     flex:1;
     overflow-y: auto;
 }
-
+table,th,td {
+    border: 1px solid black;
+}
+header {
+    display: flex;
+}
+footer {
+    display:flex;
+    list-style: none;
+}
