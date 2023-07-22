@@ -183,19 +183,12 @@
   .row{
     display: flex;
   }
-<<<<<<< HEAD
-=======
 
->>>>>>> 99f75c07c8302e4bfa62dad2a3789cc775c52da3
   ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
   }
-<<<<<<< HEAD
-
-=======
->>>>>>> 99f75c07c8302e4bfa62dad2a3789cc775c52da3
   
   [class*='col-'] {
     padding: 0.5rem;
